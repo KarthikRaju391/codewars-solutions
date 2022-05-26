@@ -21,6 +21,8 @@ The ball can only be seen if the height of the rebounding ball is strictly great
 
 - h = 3, bounce = 1, window = 1.5, result is -1 
 
-(Condition 2) not fulfilled).```
-
+(Condition 2) not fulfilled).
+```
 Wasn't able to solve it myself but had almost got it
+
+![ink](https://user-images.githubusercontent.com/67912316/170544930-1228ba05-0141-4a56-954b-e43048245386.png)
