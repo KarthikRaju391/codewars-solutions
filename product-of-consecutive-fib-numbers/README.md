@@ -39,3 +39,5 @@ productFib(800) # should return {34, 55, 0},
 productFib(714) # should return {21, 34, true}, 
 productFib(800) # should return {34, 55, false}, 
 ```
+![ink](https://user-images.githubusercontent.com/67912316/171171113-c4fc54f1-60a7-4bba-a496-e7ab8a7ef5e6.png)
+
