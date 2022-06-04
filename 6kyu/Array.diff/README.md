@@ -10,3 +10,5 @@ If a value is present in b, all of its occurrences must be removed from the othe
 ```
 arrayDiff([1,2,2,2,3],[2]) == [1,3]
 ```
+
+![image](https://user-images.githubusercontent.com/67912316/172009979-6a87bef4-a4d1-4f44-ae3f-466b91e243be.png)
